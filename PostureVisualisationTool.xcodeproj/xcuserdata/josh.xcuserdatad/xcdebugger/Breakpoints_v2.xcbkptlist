@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CameraTest/PhotoEditorNavigationController.swift"
+            timestampString = "576102963.135219"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "PhotoEditorNavigationController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostureVisualisationTool.PhotoEditorNavigationController.photoImage.getter : weak Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PostureVisualisationTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Desktop/testing/test/Calculator/CameraTest/CameraTest/CameraTest/PhotoEditorNavigationController.swift"
+                  timestampString = "570228355.987008"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostureVisualisationTool.PhotoEditorNavigationController.photoImage.setter : weak Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "PostureVisualisationTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Desktop/testing/test/Calculator/CameraTest/CameraTest/CameraTest/PhotoEditorNavigationController.swift"
+                  timestampString = "570228355.988408"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostureVisualisationTool.PhotoEditorNavigationController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; PostureVisualisationTool.PhotoEditorNavigationController"
+                  moduleName = "PostureVisualisationTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Desktop/testing/test/Calculator/CameraTest/CameraTest/CameraTest/PhotoEditorNavigationController.swift"
+                  timestampString = "570228355.989725"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostureVisualisationTool.PhotoEditorNavigationController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PostureVisualisationTool.PhotoEditorNavigationController&gt;"
+                  moduleName = "PostureVisualisationTool"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/josh/Desktop/testing/test/Calculator/CameraTest/CameraTest/CameraTest/PhotoEditorNavigationController.swift"
+                  timestampString = "570228355.991051"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
